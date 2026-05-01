@@ -7,12 +7,15 @@ ReFreshHeads is a community revival of Lidl Fresh Heads, based on the Slovak ver
 - Removed Firebase and Pushwoosh  
 - Fully* playable offline
 - Supports modern Android (tested up to Android 16)  
-- Smaller than the original APK  
-- All marbles unlocked by default  
+- Slightly smaller than the original APK  
+- All marbles unlocked by default
 
-## Bugs
-- Unable to save custom levels
-- Some features originally requiring online services are unavailable
+* Some features that originally required online services are unavailable. (e.g.: Friends, custom levels)
+
+## Installation
+1. Download the APK from Releases
+2. Enable "Install unknown apps" on your device
+3. Install the APK
 
 ## APK info
 <details>
@@ -21,8 +24,8 @@ ReFreshHeads is a community revival of Lidl Fresh Heads, based on the Slovak ver
 - Name: ReFreshHeads  
 - Package name: dev.refreshheads  
 - Architectures: arm64-v8a, armeabi-v7a  
-- Min Android: 5.0 (API 21)  
-- Target Android: 16 (API 36)  
+- Min API: 21 (Android 5.0)  
+- Target API: 36 (Android 16)  
 
 </details>
 
